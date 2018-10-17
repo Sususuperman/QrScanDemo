@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/QrScanDemo.iml" filepath="$PROJECT_DIR$/QrScanDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Demo\zBarLibary-master\zBarLibary.iml" filepath="D:\Demo\zBarLibary-master\zBarLibary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zbar/zbar.iml" filepath="$PROJECT_DIR$/zbar/zbar.iml" />
+      <module fileurl="file://D:\Demo\zBarLibary-master\zbarlibary\zbarlibary.iml" filepath="D:\Demo\zBarLibary-master\zbarlibary\zbarlibary.iml" />
+      <module fileurl="file://D:\Demo\QrScanDemo\zbar\zbarlibary.iml" filepath="D:\Demo\QrScanDemo\zbar\zbarlibary.iml" />
+      <module fileurl="file://D:\Demo\zBarLibary-master\zl.iml" filepath="D:\Demo\zBarLibary-master\zl.iml" />
+    </modules>
+  </component>
+</project>
